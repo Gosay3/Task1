@@ -5,3 +5,6 @@ Holiday shopping list
 Shirts
 pants
 shoes 
+socks
+belt
+jewelery 
